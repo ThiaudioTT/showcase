@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway # Use Netlify’s OAuth provider
-  branch: main
+  name: github
+  repo: thiaudiott/showcase
 
 media_folder: "assets/uploads" # Where media files (e.g., project images) are stored
 public_folder: "/assets/uploads" # Public path for media files
