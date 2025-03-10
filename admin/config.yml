@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: thiaudiott/showcase
+  branch: main
 
 media_folder: "assets/uploads" # Where media files (e.g., project images) are stored
 public_folder: "/assets/uploads" # Public path for media files
