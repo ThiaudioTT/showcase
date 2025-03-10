@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "title": "Open Source Project",
+            "description": "A project hosted on GitHub.",
+            "technologies": [
+                "JavaScript",
+                "React"
+            ]
+        },
+        {
+            "title": "Closed Source Project",
+            "description": "A private project stored elsewhere.",
+            "technologies": [
+                "Python",
+                "Django"
+            ]
+        }
+    ]
+}

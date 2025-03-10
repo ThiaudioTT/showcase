@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway # Use Netlify’s OAuth provider
+  branch: main
+
+media_folder: "assets/uploads" # Where media files (e.g., project images) are stored
+public_folder: "/assets/uploads" # Public path for media files
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    files:
+      - file: "projects.json" # The JSON file to store all project data
+        label: "Projects List"
+        name: "projects"
+        fields:
+          - label: "Projects"
+            name: "projects"
+            widget: "list" # Allows adding multiple project entries
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Technologies", name: "technologies", widget: "list" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Link", name: "link", widget: "string" }
+              - { label: "Source Code", name: "source_code", widget: "string" }
+              - {
+                  label: "Closed Source",
+                  name: "closed_source",
+                  widget: "boolean",
+                }
