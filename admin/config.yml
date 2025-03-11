@@ -27,4 +27,5 @@ collections:
                   label: "isClosedSource",
                   name: "isClosedSource",
                   widget: "boolean",
+                  default: false,
                 }
