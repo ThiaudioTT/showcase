@@ -66,6 +66,20 @@
       ],
       "title": "Uber Email Service",
       "isClosedSource": false
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/personalities-api",
+      "isClosedSource": false,
+      "title": "Personalities API",
+      "description": "A CRUD api to manage personalities",
+      "technologies": [
+        "Go",
+        "GorillaMux",
+        "PostgreSQL",
+        "Migrate",
+        "Validate"
+      ],
+      "image_src": "/assets/uploads/personalities-api.png"
     }
   ]
 }
