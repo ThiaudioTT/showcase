@@ -22,10 +22,9 @@ collections:
               - { label: "Description", name: "description", widget: "text" }
               - { label: "Technologies", name: "technologies", widget: "list" }
               - { label: "Image", name: "image", widget: "image" }
-              - { label: "Link", name: "link", widget: "string" }
-              - { label: "Source Code", name: "source_code", widget: "string" }
+              - { label: "URL", name: "url", widget: "string", default: "" }
               - {
-                  label: "Closed Source",
-                  name: "closed_source",
+                  label: "isClosedSource",
+                  name: "isClosedSource",
                   widget: "boolean",
                 }
