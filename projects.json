@@ -11,7 +11,8 @@
         "next.js",
         "typescript",
         "tailwindcss"
-      ]
+      ],
+      "image_src": "/assets/uploads/demo.png"
     }
   ]
 }
