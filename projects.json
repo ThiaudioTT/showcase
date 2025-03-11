@@ -5,6 +5,7 @@
       "title": "Random Quote Machine",
       "description": "It generates a random quote from an API and allows the user to tweet the quote.",
       "isClosedSource": false,
+      "image": "/assets/uploads/demo.png",
       "technologies": [
         "react",
         "next.js",
@@ -12,6 +13,20 @@
         "tailwindcss"
       ],
       "image_src": "/assets/uploads/demo.png"
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/VollMedApi",
+      "title": "Vollmed API",
+      "description": "A REST API for a medical clinic\n\n",
+      "technologies": [
+        "springBoot",
+        "flyway",
+        "mySql",
+        "beanValidator",
+        "lombok"
+      ],
+      "image_src": "/assets/uploads/code.png",
+      "isClosedSource": false
     }
   ]
 }
