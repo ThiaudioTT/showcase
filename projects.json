@@ -74,6 +74,7 @@
       "description": "A CRUD api to manage personalities",
       "technologies": [
         "Go",
+        "docker",
         "GorillaMux",
         "PostgreSQL",
         "Migrate",
