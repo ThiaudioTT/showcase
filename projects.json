@@ -27,6 +27,31 @@
       ],
       "image_src": "/assets/uploads/code.png",
       "isClosedSource": false
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/tower-of-hanoi",
+      "title": "Tower of Hanoi",
+      "description": "Tower of Hanoi game written in Clojure",
+      "technologies": [
+        "ClojureScript",
+        "Clojure",
+        "Reagent",
+        "Shadow-cljs"
+      ],
+      "image_src": "/assets/uploads/hanoi-demo.png",
+      "isClosedSource": false
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/hoi4-presence",
+      "title": "Hoi4 mod",
+      "description": "A mod for Hearts of Iron 4 who communicates with discord API",
+      "technologies": [
+        "python",
+        "pypresence",
+        "pyinstaller"
+      ],
+      "image_src": "/assets/uploads/demohoi4.png",
+      "isClosedSource": false
     }
   ]
 }
