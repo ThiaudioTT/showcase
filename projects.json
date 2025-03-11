@@ -52,6 +52,20 @@
       ],
       "image_src": "/assets/uploads/demohoi4.png",
       "isClosedSource": false
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/UberEmailService",
+      "image_src": "/assets/uploads/uber-email-service.png",
+      "description": " Uber Backend Challenge about email services",
+      "technologies": [
+        "java21",
+        "lombok",
+        "aws-ses",
+        "sendgrid",
+        "spring-boot"
+      ],
+      "title": "Uber Email Service",
+      "isClosedSource": false
     }
   ]
 }
