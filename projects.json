@@ -5,7 +5,6 @@
       "title": "Random Quote Machine",
       "description": "It generates a random quote from an API and allows the user to tweet the quote.",
       "isClosedSource": false,
-      "image": "/assets/uploads/demo.png",
       "technologies": [
         "react",
         "next.js",
