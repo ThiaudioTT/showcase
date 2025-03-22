@@ -31,8 +31,14 @@ collections:
                 }
   - name: "documents"
     label: "Documents"
-    folder: "assets/uploads"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Resume", name: "file", widget: "file" }
+    files:
+      - file: "assets/uploads/resume_thiago.pdf"
+        label: "Resume"
+        name: "resume"
+        fields:
+          - {
+              label: "File",
+              name: "file",
+              widget: "file",
+              default: "/assets/uploads/resume_thiago.pdf",
+            }
