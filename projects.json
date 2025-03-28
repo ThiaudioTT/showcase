@@ -81,6 +81,17 @@
         "Validate"
       ],
       "image_src": "/assets/uploads/personalities-api.png"
+    },
+    {
+      "url": "https://github.com/ThiaudioTT/funny-form",
+      "isClosedSource": false,
+      "title": "Funny form",
+      "description": "I created the funny form before writing the article on how to implement custom validation in Angular. This website was made specifically for that purpose.",
+      "technologies": [
+        "angular",
+        "angular-material"
+      ],
+      "image_src": "/assets/uploads/funny-form-demo.png"
     }
   ]
 }
