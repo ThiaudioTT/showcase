@@ -92,6 +92,22 @@
         "angular-material"
       ],
       "image_src": "/assets/uploads/funny-form-demo.png"
+    },
+    {
+      "url": "https://hikaricon.vercel.app/",
+      "isClosedSource": true,
+      "title": "Hikaricon",
+      "technologies": [
+        "go",
+        "supabase",
+        "postgres",
+        "aws-s3",
+        "minIO",
+        "docker",
+        "next.js"
+      ],
+      "description": "A platform to discover your next favorite geek events",
+      "image_src": "/assets/uploads/hikaricon-demo.gif"
     }
   ]
 }
