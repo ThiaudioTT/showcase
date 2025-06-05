@@ -104,7 +104,8 @@
         "aws-s3",
         "minIO",
         "docker",
-        "next.js"
+        "next.js",
+        "sha256"
       ],
       "description": "A platform to discover your next favorite geek events",
       "image_src": "/assets/uploads/hikaricon-demo.gif"
